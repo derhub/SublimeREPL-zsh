@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "SublimeREPL: zsh",
+        "command": "run_existing_window_command", "args":
+        {
+            "id": "repl_shell_zsh",
+            "file": "config/Shell/Main.sublime-menu"
+        }
+    }
+]
